@@ -1,5 +1,11 @@
 package zadatak2;
 
-public class LoginTest {
+import org.testng.annotations.BeforeClass;
 
-}
+public class LoginTest {
+	//@BeforeClass
+	//public void beforeClass() {
+
+	}
+
+
